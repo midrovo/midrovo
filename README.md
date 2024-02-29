@@ -3,10 +3,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Londrina+Shadow&family=Roboto+Condensed&display=swap" rel="stylesheet">
+  <style>
+    .titulo{ align: center; }
+  </style>
 </head>
-<style>
-  .titulo{ align: center; }
-</style>
 <body>
   <h1 class="titulo">Bienvenidos a mi Github👋</h1>
 </body>
