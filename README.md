@@ -1,12 +1,16 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Londrina+Shadow&family=Roboto+Condensed&display=swap" rel="stylesheet">
-
-<style>
-  .titulo{ align: center; }
-</style>
-
-<h1 class="titulo">Bienvenidos a mi Github👋</h1>
+<html>
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Londrina+Shadow&family=Roboto+Condensed&display=swap" rel="stylesheet">
+</head>
+<body>
+  <style>
+    .titulo{ align: center; }
+  </style>
+  <h1 class="titulo">Bienvenidos a mi Github👋</h1>
+</body>
+</html>
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
