@@ -1,10 +1,7 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Londrina+Shadow&family=Roboto+Condensed&display=swap" rel="stylesheet">
 <div>
   <h1 align="center">Bienvenidos a mi Github👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/D4E16AQF7Ig4vXL_b4Q/profile-displaybackgroundimage-shrink_350_1400/0/1708639110753?e=1714608000&v=beta&t=1kN69MXCXrksAC1tDhbVhMSyxYjmxyyHRAHgQV3hI5o">
+<img src="https://scontent.fgye26-1.fna.fbcdn.net/v/t39.30808-6/428651648_1606434443517444_8012344285540457026_n.png?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=YVcBeGtBShgAX-WZpAf&_nc_ht=scontent.fgye26-1.fna&oh=00_AfCVlt5jHnrtpgfYD_vR0fIdy5UI-CUYtgjYqBID-P_YTQ&oe=65E5628B">
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
