@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Bienvenidos a mi Github👋</h1>
 </div>
-<img src="https://scontent.fgye26-1.fna.fbcdn.net/v/t39.30808-6/428651648_1606434443517444_8012344285540457026_n.png?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=YVcBeGtBShgAX-WZpAf&_nc_ht=scontent.fgye26-1.fna&oh=00_AfCVlt5jHnrtpgfYD_vR0fIdy5UI-CUYtgjYqBID-P_YTQ&oe=65E5628B">
+<img align="center" src="https://scontent.fgye26-1.fna.fbcdn.net/v/t39.30808-6/428651648_1606434443517444_8012344285540457026_n.png?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=YVcBeGtBShgAX-WZpAf&_nc_ht=scontent.fgye26-1.fna&oh=00_AfCVlt5jHnrtpgfYD_vR0fIdy5UI-CUYtgjYqBID-P_YTQ&oe=65E5628B">
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
