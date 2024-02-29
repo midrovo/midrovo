@@ -1,4 +1,4 @@
-<h1 align=center style:"font-family:"Arial";">Bienvenidos a mi Github👋</h1>
+<h1 align=center style:"font-family:"Arial"; font-size:48px;">Bienvenidos a mi Github👋</h1>
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
