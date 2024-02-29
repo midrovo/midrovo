@@ -4,6 +4,7 @@
 <div>
   <h1 align="center">Bienvenidos a mi Github👋</h1>
 </div>
+<img src="https://media.licdn.com/dms/image/D4E16AQF7Ig4vXL_b4Q/profile-displaybackgroundimage-shrink_350_1400/0/1708639110753?e=1714608000&v=beta&t=1kN69MXCXrksAC1tDhbVhMSyxYjmxyyHRAHgQV3hI5o">
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
