@@ -5,8 +5,10 @@
 
 ## Sobre mi
 
-- Desarrollador de Software
-- Apps/Web/Desktop
+- Ingeniero en Sistemas de Información 👨‍💻
+- Apasionado por la programación 💪
+- Autodidacta 📚🤓
+- Apps📱 | Web🌐 | Desktop💻
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
