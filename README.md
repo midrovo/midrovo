@@ -1,5 +1,7 @@
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-<h1 align=center style:"font-family:"Arial"; font-size:48px;">Bienvenidos a mi Github👋</h1>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Londrina+Shadow&family=Roboto+Condensed&display=swap" rel="stylesheet">
+<h1 align=center">Bienvenidos a mi Github👋</h1>
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
