@@ -4,7 +4,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Londrina+Shadow&family=Roboto+Condensed&display=swap" rel="stylesheet">
   <style>
-    .titulo{ align: center; }
+    .titulo{ align: center; font-family: "Londrina Shadow", sans-serif; }
   </style>
 </head>
 <body>
