@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>Hola mundo</div>
+<div style="text-algin: center;">Hola mundo</div>
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
