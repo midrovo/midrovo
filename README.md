@@ -11,7 +11,7 @@
 - Autodidacta 📚🤓
 - Apps📱 | Web🌐 | Desktop💻
 
-## Stack
+## Habilidades
 ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23)
