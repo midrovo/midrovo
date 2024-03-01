@@ -22,6 +22,8 @@
 ![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=white)
+
 
 
 
