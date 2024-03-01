@@ -58,6 +58,10 @@
 
 <h3>:octocat: Otros</h3>
 
+![Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ## GitHub Analitycs
 
 <p align="center">
