@@ -28,6 +28,9 @@
 ![Static Badge](https://img.shields.io/badge/django-026842?style=for-the-badge&logo=django)
 ![Static Badge](https://img.shields.io/badge/net-purple?style=for-the-badge&logo=dotnet)
 ![Static Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
+![Static Badge](https://img.shields.io/badge/android_studio-009d71?style=for-the-badge&logo=android&labelColor=white)
+
 
 
 
