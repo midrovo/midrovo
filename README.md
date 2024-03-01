@@ -37,4 +37,8 @@
 ![Static Badge](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
 
 ## GitHub Analitycs
-![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=midrovo&theme=algolia&show_icons=true&include_all_commits=true&count_private=true) ![My Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia)
+<a align="center" href="https://github.com/midrovo">
+  <img align="center" height=180 alt="My GibHub Statitics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=midrovo&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img align="center" height=180 alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
