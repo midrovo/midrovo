@@ -12,7 +12,7 @@
 - Apps📱 | Web🌐 | Desktop💻
 
 ## Habilidades
-<h4>⭐Lenguajes de programación:</h4>
+<h3>⭐Lenguajes de programación:</h3>
 
 ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
@@ -22,7 +22,7 @@
 ![Static Badge](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)
 
 
-<h4>👨‍💻Frameworks y tecnologías frontend:</h4>
+<h3>👨‍💻Frameworks y tecnologías frontend:</h3>
 
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=white)
@@ -31,7 +31,7 @@
 ![Static Badge](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
 
 
-<h4>🤖Frameworks y plataformas de desarrollo backend:</h4>
+<h3>🤖Frameworks y plataformas de desarrollo backend:</h3>
 
 ![Static Badge](https://img.shields.io/badge/spring%20boot-black?style=for-the-badge&logo=springboot)
 ![Static Badge](https://img.shields.io/badge/django-026842?style=for-the-badge&logo=django)
@@ -39,7 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=node.js)
 
-<h4>🧠Entornos de desarrollo integrado:</h4>
+<h3>🧠Entornos de desarrollo integrado:</h3>
 
 ![Static Badge](https://img.shields.io/badge/vs_code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/visual_studio-purple?style=for-the-badge&logo=visualstudio)
@@ -47,7 +47,7 @@
 ![Static Badge](https://img.shields.io/badge/intellij_IDEA-blue?style=for-the-badge&logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/android_studio-009d71?style=for-the-badge&logo=android&labelColor=white)
 
-<h4>📘Bases de datos:</h4>
+<h3>📘Bases de datos:</h3>
 
 ![Static Badge](https://img.shields.io/badge/orcale-red?style=for-the-badge&logo=oracle)
 ![Static Badge](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
