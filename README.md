@@ -13,6 +13,7 @@
 
 ## Stack
 ![Static Badge](https://img.shields.io/badge/python-fdfd96?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/node_js-ffffff?style=for-the-badge&logo=node.js)
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
