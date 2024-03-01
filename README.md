@@ -37,5 +37,5 @@
 ![Static Badge](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
 
 ## GitHub Analitycs
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=midrovo&theme=holi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midrovo&size_weight=0.5&count_weight=0.5)
+![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=midrovo&theme=algolia&show_icons=true&include_all_commits=true&count_private=true)
+![My Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia)
