@@ -18,7 +18,11 @@
 ![Static Badge](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=%23ff6f00)
 
-![Static Badge](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=%23ff6f00)
+![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&labelColor=black)
+
 
 
 
