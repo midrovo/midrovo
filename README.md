@@ -12,9 +12,11 @@
 - Apps📱 | Web🌐 | Desktop💻
 
 ## Stack
-
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23)
+![Static Badge](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin)
+
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
