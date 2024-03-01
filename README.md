@@ -55,11 +55,11 @@
 ![Static Badge](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
 
 ## GitHub Analitycs
-<p align="center">
-  <a href="https://github.com/midrovo">
-    <img alt="My GibHub Statitics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=midrovo&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=midrovo&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+
+<a href="https://github.com/midrovo">
+  <img alt="My GibHub Statitics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=midrovo&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=midrovo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
 
 
