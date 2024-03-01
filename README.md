@@ -36,3 +36,7 @@
 ![Static Badge](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
 
+## Github Analitycs
+[![GitHub stars](https://img.shields.io/github/stars/midrovo)](https://github.com/midrovo)
+
+
