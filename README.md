@@ -37,6 +37,6 @@
 ![Static Badge](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
 
 ## GitHub Analitycs
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midrovo)](https://github.com/midrovo/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=midrovo)](https://github.com/midrovo/github-readme-stats)
 
 
