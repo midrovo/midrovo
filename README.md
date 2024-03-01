@@ -57,7 +57,8 @@
 ## GitHub Analitycs
 <p align="center">
   <a href="https://github.com/midrovo">
-    <img height=180em alt="My GibHub Statitics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=midrovo&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/><img height=180em alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=midrovo&layout=compact&langs_count=8&theme=algolia"/>
+    <img alt="My GibHub Statitics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=midrovo&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=midrovo&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
