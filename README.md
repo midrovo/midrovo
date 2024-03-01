@@ -12,6 +12,7 @@
 - Apps📱 | Web🌐 | Desktop💻
 
 ## Stack
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"><img alt="Static Badge" src="https://img.shields.io/badge/java-black?style=for-the-badge&labelColor=white">
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23)
