@@ -12,7 +12,8 @@
 - Apps📱 | Web🌐 | Desktop💻
 
 ## Stack
-![Static Badge](https://img.shields.io/badge/JAVA)
+- ![image](https://github.com/midrovo/midrovo/assets/108381738/659a1c3b-6093-4f30-afc8-a215a9770eaf)
+
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
