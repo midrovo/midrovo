@@ -1,6 +1,6 @@
 ## Bienvenido a mi perfil✌️😎
 <div>
-  <h1 align="center">Hola, soy Mauricio👋</h1>
+  <h2 align="center">Hola👋, me llamo Mauricio Idrovo👨‍💻</h2>
 </div>
 <img align="center" src="https://media.licdn.com/dms/image/D4E16AQF7Ig4vXL_b4Q/profile-displaybackgroundimage-shrink_350_1400/0/1708639110753?e=1714608000&v=beta&t=1kN69MXCXrksAC1tDhbVhMSyxYjmxyyHRAHgQV3hI5o">
 
