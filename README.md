@@ -1,6 +1,6 @@
 ## Bienvenido a mi perfil✌️😎
 <div>
-  <h1 align="center">Hola, Mauricio👋</h1>
+  <h1 align="center">Hola, soy Mauricio👋</h1>
 </div>
 <img align="center" src="https://media.licdn.com/dms/image/D4E16AQF7Ig4vXL_b4Q/profile-displaybackgroundimage-shrink_350_1400/0/1708639110753?e=1714608000&v=beta&t=1kN69MXCXrksAC1tDhbVhMSyxYjmxyyHRAHgQV3hI5o">
 
@@ -12,7 +12,7 @@
 - Apps📱 | Web🌐 | Desktop💻
 
 ## Stack
-
+![Static Badge](https://img.shields.io/badge/JAVA)
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
