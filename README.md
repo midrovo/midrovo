@@ -18,6 +18,9 @@
 ![Static Badge](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=%23ff6f00)
 
+![Static Badge](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=%23ff6f00)
+
+
 
 <!--
 **midrovo/midrovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
