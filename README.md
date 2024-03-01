@@ -24,6 +24,13 @@
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=white)
 
+![Static Badge](https://img.shields.io/badge/spring%20boot-black?style=for-the-badge&logo=springboot)
+![Static Badge](https://img.shields.io/badge/django-026842?style=for-the-badge&logo=django)
+![Static Badge](https://img.shields.io/badge/net-purple?style=for-the-badge&logo=dotnet)
+![Static Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=black&labelColor=white)
+
+
+
 
 
 
