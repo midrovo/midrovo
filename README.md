@@ -10,6 +10,8 @@
 - Apasionado por la programación 💪
 - Autodidacta 📚🤓
 - Apps📱 | Web🌐 | Desktop💻
+- Contenedorización y Orquestación📦
+- Azure Databricks (PySpark/SQL)☁️
 
 ## Habilidades
 <h3>⭐Lenguajes de programación:</h3>
