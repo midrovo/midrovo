@@ -12,7 +12,7 @@
 - Apps📱 | Web🌐 | Desktop💻
 
 ## Stack
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=20px><img alt="Static Badge" src="https://img.shields.io/badge/java-black?style=for-the-badge&labelColor=white">
+<img style="display=flex; align-item=center;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=20px><img alt="Static Badge" src="https://img.shields.io/badge/java-black?style=for-the-badge&labelColor=white">
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23)
 ![Static Badge](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=nodedotjs)
