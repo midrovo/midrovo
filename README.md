@@ -55,6 +55,7 @@
 ![Static Badge](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
+![Static Badge](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=white&color=green)
 
 <h3>:octocat: Otros</h3>
 
